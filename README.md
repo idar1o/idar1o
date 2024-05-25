@@ -2,6 +2,10 @@
 
 I'm a developer with experience in Mobile application development. I enjoy creating beautiful and interesting projects, especially in the sphere of Artificial Intelligence.
 
+### 🌐 Social Links
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/aidar-mukanbet-0214a1256/)
+[![Telegram](https://img.shields.io/badge/-Telegram-333333?style=flat&logo=telegram)](https://t.me/aidaroq)
+
 ### 🛠 Technologies and Tools
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
@@ -17,10 +21,7 @@ I'm a developer with experience in Mobile application development. I enjoy creat
 - [Notes App](https://github.com/idar1o/NotesAppMVVM) — A mobile application developed.
 - [AviaTickets App](https://github.com/idar1o/AviaTickets) — A AviaTickets application developed with Kotlin and integrating various APIs.
 
-### 🌐 Social Links
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/aidar-mukanbet-0214a1256/)
 
-![Coding](https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
