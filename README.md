@@ -18,6 +18,21 @@ I'm a developer with experience in Mobile application development. I enjoy creat
 ![Aidar's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidar&show_icons=true&theme=radical)
 
 ### 📁 Projects
-- [Notes App](https://github.com/idar1o/NotesAppMVVM) — A mobile application developed.
+- [School Diary App](https://github.com/idar1o/NotesAppMVVM) — The following technologies and libraries were used to develop School Diary App:
+  Kotlin – Primary programming language
+  Clean Architecture – Well-structured application architecture
+  MVVM – Model-View-ViewModel pattern for state management
+  Coroutines/Flow – Asynchronous programming
+  Jetpack Compose – Modern UI toolkit
+  
+- [Instagramm Clone App](https://github.com/idar1o/NotesAppMVVM) — The following technologies and libraries were used to develop InstagramCloneApp:
+🛠 Programming Language: Kotlin
+🔒 Authentication: Firebase Authentication
+🗄 Storage: Firebase Storage
+📄 Database: Firebase Firestore Database
+🛠 Dependency injection: Hilt
+🎨 User Interface: Jetpack Compose
+🏗 Architecture: MVVM (Model-View-View-ViewModel).
+
 - [AviaTickets App](https://github.com/idar1o/AviaTickets) — A AviaTickets application developed with Kotlin and integrating various APIs.
 
