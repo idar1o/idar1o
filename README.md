@@ -9,6 +9,7 @@ I'm a developer with experience in Mobile application development. I enjoy creat
 ### 🛠 Technologies and Tools
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
+![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-333333?style=flat&logo=jetpack-compose)
