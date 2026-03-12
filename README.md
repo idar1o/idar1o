@@ -38,64 +38,83 @@ Technologies I frequently use:
 - Dependency Injection (GetIt)  
 
 
-# 🚀 Production Projects (Private Repositories)
+# 🚀 Production Projects
 
-> Due to NDA restrictions, source code for these projects is private.
+> ⚠️ Due to NDA restrictions, source code for these projects is private.  
+> I can discuss architecture and technical implementation during interviews.
 
-### ERC 2.0 – коммунальное приложение (Flutter)
-Full mobile version of the ERC utility payment system.
+---
 
-Key contributions:
+## 💳 PayMob — Payment Terminal Application
 
-- Implemented **custom Firebase authentication error handling**, reducing login failures and support requests by **25–30%**.
-- Developed **forced and optional app update mechanism** using Firebase Remote Config.
-- Implemented **multi-device session control and token revocation**, reducing risk of unauthorized access by **~40%**.
+Application for **POS terminals used by cashiers** to accept коммунальные платежи via **card and QR payments**.
 
-Tech stack:
+**Key impact**
 
-Flutter, Dart, Dio, Bloc/Cubit, Clean Architecture, Firebase Auth, InAppWebView.
+- Integrated **payment gateway (Card + QR)** for utility payments.
+- Increased successful transactions by **22%**.
+- Reduced average payment time by **30%** by optimizing request flow and error handling.
+- Implemented **transaction verification and status synchronization** for POS devices.
 
+**Tech Stack**
 
+![Flutter](https://img.shields.io/badge/Flutter-333333?style=flat&logo=flutter)
+![Bloc](https://img.shields.io/badge/Bloc-333333?style=flat)
+![Hive](https://img.shields.io/badge/Hive-333333?style=flat)
+![MethodChannel](https://img.shields.io/badge/MethodChannel-333333?style=flat)
+![GoRouter](https://img.shields.io/badge/GoRouter-333333?style=flat)
 
-### PayMob – payment terminal application
+---
 
-Mobile application for POS terminals used by cashiers to accept utility payments.
+## 💧 Turan — IoT Water Meter Controller
 
-Key contributions:
+Mobile application used by **utility inspectors** to collect meter data and **remotely control water valves**.
 
-- Integrated **payment gateway (card + QR payments)**.
-- Increased successful transactions by **22%** and reduced payment time by **30%** by optimizing request flow and error handling.
-- Implemented **payment flow on POS terminals** including transaction verification.
+**Key impact**
 
-Tech stack:
+- Implemented **low-level BLE communication protocol** with smart water meters.
+- Collaborated with **Chinese hardware engineers** to define device command structure.
+- Improved connection stability and increased **device connection range from 5–8m to ~10m**.
+- Implemented commands for **meter reading, valve opening and closing**.
 
-Flutter, Hive, Bloc/Cubit, MethodChannel, GoRouter, InAppWebView.
+**Tech Stack**
 
+![Flutter](https://img.shields.io/badge/Flutter-333333?style=flat&logo=flutter)
+![BLE](https://img.shields.io/badge/BLE-333333?style=flat)
+![Bloc](https://img.shields.io/badge/Bloc-333333?style=flat)
+![GetIt](https://img.shields.io/badge/GetIt-333333?style=flat)
 
+---
 
-### Turan – IoT water meter controller
+## 🏦 ERC 2.0 — Utility Payment Application
 
-Mobile application used by utility inspectors to collect water meter data and remotely control valves.
+Full mobile version of the **ERC коммунальная платформа** used for utility payments.
 
-Key contributions:
+**Key impact**
 
-- Implemented **low-level communication protocol with smart water meters**.
-- Collaborated with **Chinese hardware engineers** to define command structure for valve control and meter readings.
-- Increased **device connection range from 5–8m to ~10m** and improved connection stability after field testing.
+- Implemented **custom Firebase authentication error mapping**, reducing login failures by **25–30%**.
+- Developed **forced and optional app update system** using Firebase Remote Config.
+- Implemented **multi-device session control with token revocation**, improving account security by **~40%**.
 
-Tech stack:
+**Tech Stack**
 
-Flutter, flutter_reactive_ble, Bloc/Cubit, GetIt.
+![Flutter](https://img.shields.io/badge/Flutter-333333?style=flat&logo=flutter)
+![Bloc](https://img.shields.io/badge/Bloc-333333?style=flat)
+![Firebase](https://img.shields.io/badge/Firebase-333333?style=flat&logo=firebase)
+![Dio](https://img.shields.io/badge/Dio-333333?style=flat)
 
+---
 
+## 📊 Quant — Meter Monitoring System
 
-### Quant – meter data monitoring system
+Application for **monitoring and viewing meter readings**.
 
-Application for viewing and monitoring meter readings.
+**Tech Stack**
 
-Tech stack:
-
-Flutter, Bloc/Cubit, Clean Architecture, GoRouter.
+![Flutter](https://img.shields.io/badge/Flutter-333333?style=flat&logo=flutter)
+![Bloc](https://img.shields.io/badge/Bloc-333333?style=flat)
+![CleanArchitecture](https://img.shields.io/badge/CleanArchitecture-333333?style=flat)
+![GoRouter](https://img.shields.io/badge/GoRouter-333333?style=flat)
 
 ---
 
