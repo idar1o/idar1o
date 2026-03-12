@@ -5,13 +5,13 @@ Experienced in **payment systems, Firebase backend services, and IoT / hardware 
 
 Most of my commercial work is part of private repositories due to NDA, but key projects and technical contributions are described below.
 
----
+
 
 ## 🌐 Social Links
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/aidar-mukanbet-0214a1256/)
-[![Telegram](https://img.shields.io/badge/-Telegram-333333?style=flat&logo=telegram)](https://t.me/aidaroq)
+[![Telegram](https://img.shields.io/badge/-Telegram-333333?style=flat&logo=telegram)](https://t.me/arrr125)
 
----
+
 
 # 🛠 Technologies & Tools
 
@@ -27,20 +27,16 @@ Most of my commercial work is part of private repositories due to NDA, but key p
 Technologies I frequently use:
 
 - Flutter / Dart  
-- Bloc / Cubit state management  
+- Bloc / Cubit & Riverpod / Provider state management  
 - Clean Architecture  
-- Firebase (Auth, Remote Config)  
-- REST APIs  
-- Payment integrations  
-- BLE device communication  
+- Firebase (Auth, Firebase Messaging, Firestore, Remote Config)  
+- REST APIs
+- Navigation (AutoRoute, GoRouter)
+- Payment integrations (YaKassa, Megapay)
+- BLE device communication
+- Animation (implicit/explicit)
 - Dependency Injection (GetIt)  
 
----
-
-# 📊 GitHub Stats
-![Aidar's GitHub stats](https://github-readme-stats.vercel.app/api?username=idar1o&show_icons=true&theme=radical)
-
----
 
 # 🚀 Production Projects (Private Repositories)
 
@@ -59,7 +55,7 @@ Tech stack:
 
 Flutter, Dart, Dio, Bloc/Cubit, Clean Architecture, Firebase Auth, InAppWebView.
 
----
+
 
 ### PayMob – payment terminal application
 
@@ -75,7 +71,7 @@ Tech stack:
 
 Flutter, Hive, Bloc/Cubit, MethodChannel, GoRouter, InAppWebView.
 
----
+
 
 ### Turan – IoT water meter controller
 
@@ -91,7 +87,7 @@ Tech stack:
 
 Flutter, flutter_reactive_ble, Bloc/Cubit, GetIt.
 
----
+
 
 ### Quant – meter data monitoring system
 
@@ -103,7 +99,25 @@ Flutter, Bloc/Cubit, Clean Architecture, GoRouter.
 
 ---
 
+
+# 📊 GitHub Stats
+![Aidar's GitHub stats](https://github-readme-stats.vercel.app/api?username=idar1o&show_icons=true&theme=radical)
+
+---
+
 # 📁 Open Source / Study Projects
+
+### [Education App (Flutter)](https://github.com/idar1o/EducationApp)
+
+Educational mobile application built with Flutter.
+
+Features:
+
+- Bloc / Cubit state management
+- Infinite scroll pagination
+- Token-based authentication
+- Yandex Metrica analytics
+- Clean architecture
 
 ### [School Diary App](https://github.com/idar1o/SchoolDiaryApp)
 
@@ -117,7 +131,6 @@ Tech stack:
 - Coroutines / Flow
 - Jetpack Compose
 
----
 
 ### [Instagram Clone App](https://github.com/idar1o/InstagrammCloneApp)
 
@@ -131,7 +144,6 @@ Features:
 - Dependency Injection (Hilt)
 - Jetpack Compose UI
 
----
 
 ### [NotesAppMVVM](https://github.com/idar1o/NotesAppMVVM)
 
@@ -145,16 +157,3 @@ Tech stack:
 - LiveData / ViewModel
 - Coroutines
 
----
-
-### [Education App (Flutter)](https://github.com/idar1o/EducationApp)
-
-Educational mobile application built with Flutter.
-
-Features:
-
-- Bloc / Cubit state management
-- Infinite scroll pagination
-- Token-based authentication
-- Yandex Metrica analytics
-- Clean architecture
