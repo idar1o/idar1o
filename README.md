@@ -103,6 +103,7 @@ Full mobile version of the **ERC коммунальная платформа** u
 ![Firebase](https://img.shields.io/badge/Firebase-333333?style=flat&logo=firebase)
 ![Dio](https://img.shields.io/badge/Dio-333333?style=flat)
 
+Play market: [ЕРЦ](https://play.google.com/store/apps/details?id=kg.mycloud.nssc) / AppStore: [ЕРЦ](https://apps.apple.com/kg/app/%D0%B5%D1%80%D1%86/id6751805985)
 ---
 
 ## 📊 Quant — Meter Monitoring System
