@@ -177,3 +177,15 @@ Tech stack:
 - LiveData / ViewModel
 - Coroutines
 
+### [Animate App (Shaders / UI Experiments)](https://github.com/idar1o/animate_app)
+
+Mobile application focused on learning and experimenting with shaders and advanced UI rendering.
+
+Features:
+
+- Liquid glass / glassmorphism effects
+- Custom shader-based UI components
+- Blur, gradients, and lighting experiments
+- Exploration of GPU rendering techniques
+- Performance-oriented visual effects
+
