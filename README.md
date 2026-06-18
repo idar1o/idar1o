@@ -127,6 +127,20 @@ Application for **monitoring and viewing meter readings**.
 
 # 📁 Open Source / Study Projects
 
+### [test_kanban (Flutter)](https://github.com/idar1o/test_kanban)
+
+Kanban-доска на Flutter с подключением к KPI-Drive API. Задачи приходят от сервера, группируются по папкам в колонки, поддерживается drag-&-drop карточек между колонками и внутри колонок, а также перетаскивание самих колонок. Изменения применяются оптимистично и сохраняются на бэкенд; при ошибке — автоматический откат и snackbar с повтором.
+
+Features:
+
+Clean Architecture + Feature-based + Interactor Pattern.
+Flutter / Dart — UI и вся логика. Drag-&-drop — нативный Draggable / DragTarget, без сторонних библиотек.
+Dio — HTTP-клиент. Единая точка настройки base URL, bearer-токена, сериализация FormData с повторяющимися полями (для save_indicator_instance_field критично — дублируются field_name/field_value).
+flutter_bloc (Cubit) — тонкий слой между domain и UI.
+provider — composition root, DI на уровне фичи через MultiProvider.
+equatable — value-equality для entity и state.
+
+
 ### [Education App (Flutter)](https://github.com/idar1o/EducationApp)
 
 Educational mobile application built with Flutter.
